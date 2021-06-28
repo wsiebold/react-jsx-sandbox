@@ -1,2 +1,2 @@
-# react-jsx-sandbox
+# JSXAttributesStyling
 Created with CodeSandbox
